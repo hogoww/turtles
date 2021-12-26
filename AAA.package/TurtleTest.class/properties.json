@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "TestAsserter",
+	"super" : "TestCase",
 	"category" : "AAA",
 	"classinstvars" : [ ],
 	"pools" : [ ],
